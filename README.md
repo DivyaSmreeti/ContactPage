@@ -1,8 +1,6 @@
-# React + Vite
+# Contacts Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A dynamic Contacts Manager made using React and Firebase and styled with Tailwind
+CSS.This Application empowers users to efficiently manage their contacts in a visually appealing
+and user-friendly interface.The integration of Firebase ensures real-time updates and secure
+storage,enhancing the overall user experience.
